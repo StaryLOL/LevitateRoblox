@@ -1,7 +1,7 @@
 local httpService = game:GetService("HttpService")
 
 local SaveManager = {} do
-	SaveManager.Folder = "Levitate."
+	SaveManager.Folder = "LevitateSettingTest"
 	SaveManager.Ignore = {}
 	SaveManager.Parser = {
 		Toggle = {
